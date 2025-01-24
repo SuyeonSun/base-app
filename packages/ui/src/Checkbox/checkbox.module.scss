@@ -1,0 +1,9 @@
+@forward '../styles/design-system.scss';
+
+.checkbox {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    border: 1.2px solid var(--adaptiveGrey700);
+    border-radius: 2px;
+}

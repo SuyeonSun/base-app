@@ -1,0 +1,25 @@
+@forward '../styles/design-system.scss';
+
+.small {
+    font-size: 12px;
+    color: var(--adaptiveBackground);
+    margin: 0;
+}
+
+.medium {
+    font-size: 16px;
+    color: var(--adaptiveBackground);
+    margin: 0;
+}
+
+.large {
+    font-size: 20px;
+    color: var(--adaptiveBackground);
+    margin: 0;
+}
+
+.extra-large {
+    font-size: 24px;
+    color: var(--adaptiveBackground);
+    margin: 0;
+}
